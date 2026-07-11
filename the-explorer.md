@@ -46,4 +46,4 @@ Invalid state transitions; atomicity; cross-module consistency; interrupts and
 ## Techniques
 
 State Transition Testing, Decision Table Thinking, Pairwise / Combination Thinking,
-User Journey Thinking. See [`../resources/test-techniques.md`](../resources/test-techniques.md).
+User Journey Thinking.

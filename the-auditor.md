@@ -46,4 +46,3 @@ Audit-trail integrity; data retention; retrospective traceability; tamper-eviden
 ## Techniques
 
 Traceability / Audit Thinking, Reconciliation Thinking, Security-Focused Testing.
-See [`../resources/test-techniques.md`](../resources/test-techniques.md).

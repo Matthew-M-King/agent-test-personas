@@ -48,4 +48,4 @@ source of truth; restore-vs-duplicate on reversal.
 ## Techniques
 
 State Transition Testing, Decision Table Thinking, Traceability / Audit Thinking,
-API Contract Thinking. See [`../resources/test-techniques.md`](../resources/test-techniques.md).
+API Contract Thinking.

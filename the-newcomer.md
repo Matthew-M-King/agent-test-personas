@@ -46,5 +46,4 @@ destructive or costly actions.
 
 ## Techniques
 
-Negative Testing, Equivalence Partitioning, User Journey Thinking. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+Negative Testing, Equivalence Partitioning, User Journey Thinking.

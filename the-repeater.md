@@ -43,4 +43,4 @@ safety.
 ## Techniques
 
 Idempotency Thinking, Reliability / Resilience Testing, API Contract Thinking,
-Error Guessing. See [`../resources/test-techniques.md`](../resources/test-techniques.md).
+Error Guessing.

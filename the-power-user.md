@@ -45,5 +45,4 @@ status visibility at speed.
 
 ## Techniques
 
-User Journey Thinking, Pairwise / Combination Thinking, Error Guessing. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+User Journey Thinking, Pairwise / Combination Thinking, Error Guessing.

@@ -38,5 +38,4 @@ Idempotency under double-submit; correction propagation; undo/redo cleanliness.
 
 ## Techniques
 
-Idempotency Thinking, Error Guessing, State Transition Testing. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+Idempotency Thinking, Error Guessing, State Transition Testing.

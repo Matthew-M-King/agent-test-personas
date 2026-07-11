@@ -40,5 +40,4 @@ cache-vs-source divergence.
 
 ## Techniques
 
-Reconciliation Thinking, API Contract Thinking, Decision Table Thinking. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+Reconciliation Thinking, API Contract Thinking, Decision Table Thinking.

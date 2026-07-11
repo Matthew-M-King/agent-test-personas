@@ -45,5 +45,4 @@ Transactional flows; status accuracy; undo/revert correctness and warnings.
 
 ## Techniques
 
-State Transition Testing, User Journey Thinking, Idempotency Thinking. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+State Transition Testing, User Journey Thinking, Idempotency Thinking.

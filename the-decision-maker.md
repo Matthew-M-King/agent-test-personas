@@ -46,4 +46,3 @@ accuracy; trend/period correctness.
 ## Techniques
 
 Reconciliation Thinking, Decision Table Thinking, Boundary Value Analysis (dates).
-See [`../resources/test-techniques.md`](../resources/test-techniques.md).

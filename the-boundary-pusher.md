@@ -41,5 +41,4 @@ Input validation; guard rails; repeat-action protection; error-path safety.
 ## Techniques
 
 Boundary Value Analysis, Equivalence Partitioning, Negative Testing, Fuzz / Abuse
-Thinking, Security-Focused Testing. See
-[`../resources/test-techniques.md`](../resources/test-techniques.md).
+Thinking, Security-Focused Testing.

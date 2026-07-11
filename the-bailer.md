@@ -42,4 +42,3 @@ Partial / abandoned state handling; cleanup; resumability.
 ## Techniques
 
 State Transition Testing, Reliability / Resilience Testing, User Journey Thinking.
-See [`../resources/test-techniques.md`](../resources/test-techniques.md).
